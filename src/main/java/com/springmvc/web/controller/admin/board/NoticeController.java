@@ -23,7 +23,7 @@ public class NoticeController {
 	
 	@RequestMapping("edit")
 	public String edit() {
-		return "";
+		return "";   
 	}
 	
 	@RequestMapping("delete")
